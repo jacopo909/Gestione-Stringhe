@@ -34,7 +34,8 @@ namespace TestEserciziStringhe
                     Console.WriteLine("le frasi non sono uguali ");
                 }
             }
-                Console.ReadKey(); 
+                Console.ReadKey();
+            
         }
     }
 }
